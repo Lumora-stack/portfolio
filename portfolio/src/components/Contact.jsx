@@ -23,9 +23,9 @@ function Contact() {
             <span className="contact-link__label">Truelancer</span>
             <span className="contact-link__value">View Profile</span>
           </a>
-          <a className="contact-link" href={profile.contact.linkedin} target="_blank" rel="noreferrer">
-            <span className="contact-link__label">LinkedIn</span>
-            <span className="contact-link__value">Connect</span>
+          <a className="contact-link" href={profile.contact.instagram} target="_blank" rel="noreferrer">
+            <span className="contact-link__label">Instagram</span>
+            <span className="contact-link__value">Follow</span>
           </a>
           <a className="contact-link" href={profile.contact.github} target="_blank" rel="noreferrer">
             <span className="contact-link__label">GitHub</span>

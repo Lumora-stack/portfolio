@@ -4,7 +4,7 @@
 // ─────────────────────────────────────────────────────────────
 
 const profile = {
-  name: "Noor",
+  name: "Praveen",
   role: "Writer & Virtual Assistant",
   tagline:
     "I help small businesses and creators turn messy documents, half-written ideas and scattered data into clean, finished work.",
@@ -12,16 +12,16 @@ const profile = {
 
   // Replace with your real contact details / profile links.
   contact: {
-    email: "your.email@example.com",
+    email: "quantumvoyager2005@gmail.com",
     truelancer: "https://www.truelancer.com/freelancer/your-profile",
     github: "https://github.com/your-username",
-    linkedin: "https://www.linkedin.com/in/your-profile",
+    instagram: "https://www.instagram.com/littlefindstudio",
   },
 
   about: {
     heading: "About Me",
     paragraphs: [
-      "I'm Noor, a freelancer just starting out and building my career one project at a time. I focus on writing, document formatting and data work — the kind of tasks that take time and attention to detail, but free up your day.",
+      "I'm Praveen, a freelancer just starting out and building my career one project at a time. I focus on writing, document formatting and data work — the kind of tasks that take time and attention to detail, but free up your day.",
       "I don't have a long list of past clients yet, but I bring careful, dependable work, clear communication, and a genuine effort to get every detail right. I'm currently taking on projects to build my portfolio and would love to work on yours.",
     ],
   },

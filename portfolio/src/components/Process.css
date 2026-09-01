@@ -1,0 +1,35 @@
+.process-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: var(--space-4);
+  counter-reset: none;
+  position: relative;
+}
+
+.process-item {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.process-item__step {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  color: var(--color-mustard);
+  border-bottom: 2px solid var(--color-mustard);
+  height: fit-content;
+  padding-bottom: 0.1rem;
+  flex-shrink: 0;
+}
+
+.process-item h3 {
+  font-size: 1.05rem;
+  margin-bottom: 0.35rem;
+}
+
+.process-item p {
+  color: var(--color-text-muted);
+  font-size: 0.92rem;
+}

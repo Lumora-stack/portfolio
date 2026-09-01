@@ -1,4 +1,4 @@
-# Freelancer Portfolio
+# Noor — Freelancer Portfolio
 
 A clean, responsive one-page portfolio built with **React + Vite**, for a freelancer offering
 writing, data entry, typing, PDF conversion, document formatting, Canva design and basic photo
